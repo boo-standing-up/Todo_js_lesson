@@ -1,3 +1,13 @@
 body {
   font-family: sans-serif;
 }
+
+.input_eria {
+  background-color: aqua;
+}
+.incomplate_aria {
+  background-color: royalblue;
+}
+.complate_aria {
+  background-color: palevioletred;
+}
